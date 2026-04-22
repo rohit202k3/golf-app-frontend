@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "stunning-serenity-production-d6da.up.railway.app/api",
+  baseURL: "https://stunning-serenity-production-d6da.up.railway.app/api",
 });
 
 // 🔥 ADD THIS (VERY IMPORTANT)
